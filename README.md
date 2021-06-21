@@ -1,8 +1,10 @@
+D is for Donations
+
 # The Call for Research Donations
 
 The Research Donations seek to attract funding to help support basic research and discovery targeted at distributed ledger and blockchain technology as well as distributed systems in the long term.
 
-## 0L address:     C0E34157DC9608F2D04C616DE4BA0694
+## 0L address:     1367B68C86CB27FA7215D9F75A26EB8F
 ## ETH address:    coming soon
 
 Safe for potential administrative costs, we intend for donations to be passed on as the same to the University of Toronto’s Advancement Office in support of the research activities of the Middleware Systems Research Group - msrg.org.
